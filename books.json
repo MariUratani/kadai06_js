@@ -1,0 +1,215 @@
+{
+    "光村図書": {
+      "1年": [
+        { "title": "あさのおひさま","full_title": "「現代日本童謡詩全集9　大きなけやき", "author": "神沢利子" },
+        { "title": "おおきなかぶ","full_title": "おおきなかぶ", "author": "西郷竹彦" },
+        { "title": "きっときってかってきて","full_title": "ことばあそびえほん　きっときってかってきて", "author": "谷川俊太郎" },
+        { "title": "おかゆのおなべ","full_title": "学年別／新おはなし文庫　グリムどうわ　一年生", "author": "斉藤洋" },
+        { "title": "かたつむりのゆめ","full_title": "のはらうたⅡ", "author": "工藤直子" },
+        { "title": "おいわい","full_title": "「版画のはらうたⅡ", "author": "くどうなおこ" },
+        { "title": "ずうっと、ずっと、大すきだよ","full_title": "ずーっとずっとだいすきだよ", "author": "ハンス・ウィルヘルム　久山太市" }
+      ],
+      "2年": [
+        { "title": "はながさいた","full_title": "まど・みちお　全詩集", "author": "まど・みちお" },
+        { "title": "スイミー","full_title": "スイミー", "author": "レオ・レオニ" },
+        { "title": "みんみん","full_title": "ふじさんとおひさま", "author": "谷川俊太郎" },
+        { "title": "ミリーのすてきなぼうし","full_title": "「ミリーのすてきなぼうし", "author": "きたむらさとし" },
+        { "title": "雨のうた","full_title": "あめふりくまのこ　国土社の詩の本15", "author": "鶴見正夫" },
+        { "title": "ことこ","full_title": "ことばあそびうた", "author": "谷川俊太郎" },
+        { "title": "お手紙","full_title": "ふたりはともだち", "author": "アーノルド=ローベル　三木卓" },
+        { "title": "やま","full_title": "おやすみなさい　またあした", "author": "神沢利子" },
+        { "title": "ねこのこ","full_title": "おどる詩　あそぶ詩　きこえる詩", "author": "大久保テイ子" },
+        { "title": "おとのはなびら","full_title": "現代児童文学詩人文庫１　野呂昶詩集", "author": "野呂昶" },
+        { "title": "はんたいことば","full_title": "詩はともだち　ぱぴぷぺぽっつん", "author": "原田直友" },
+        { "title": "ことばを楽しもう","full_title": "まさかさかさま　動物回文集", "author": "石津ちひろ" },
+        { "title": "スーホの白い馬","full_title": "スーホの白い馬", "author": "大塚勇三" },
+        { "title": "おちば","full_title": "ふたりはいつも", "author": "アーノルド=ローベル　三木卓" },
+        { "title": "せかい一の話","full_title": "光村ライブラリー9手ぶくろを買いにほか", "author": "北彰介" }
+      ],
+      "3年": [
+        { "title": "どきん","full_title": "谷川俊太郎少年詩集　どきん", "author": "谷川俊太郎" },
+        { "title": "みどり","full_title": "ジュニアポエムシリーズ237　まぜごはん", "author": "内田麟太郎" },
+        { "title": "はなび","full_title": "しのえほん3　らんどせるのうた", "author": "鶴見正夫" },
+        { "title": "鳥になったきょうりゅうの話","full_title": "とりになった　きょうりゅうのはなし", "author": "大島英太郎" },
+        { "title": "わたしと小鳥とすずと","full_title": "金子みすゞ童謡集　わたしと小鳥とすずと", "author": "金子みすゞ" },
+        { "title": "夕日がせなかをおしてくる","full_title": "阪田寛夫全詩集", "author": "阪田寛夫" },
+        { "title": "ちいちゃんのかげおくり","full_title": "「あかね創作絵本11　ちいちゃんのかげおくり", "author": "あまんきみこ" },
+        { "title": "三年とうげ","full_title": "「さんねん峠　新・創作絵本21", "author": "李錦玉" },
+        { "title": "ゆき","full_title": "詩の散歩道　しかられた神さま", "author": "川崎洋" },
+        { "title": "からはおもくて……","full_title": "ことばのこばこ", "author": "和田誠" },
+        { "title": "ことばはつなぐ……","full_title": "みえる詩　あそぶ詩　きこえる詩", "author": "はせみつこ" },
+        { "title": "あした","full_title": "あしたのあたしはあたらしいあたし", "author": "石津ちひろ" },
+        { "title": "たいこ","full_title": "詩ってなんだろう", "author": "谷川俊太郎" },
+        { "title": "なみ","full_title": "ジュニアポエム　シリーズ143　うみがわらってる", "author": "内田麟太郎" },
+        { "title": "かいだん","full_title": "ことばあそびの本　ことばあそび3年生", "author": "関根栄一" },
+        { "title": "モチモチの木","full_title": "「理論社　名作の愛蔵版　ベロ出しチョンマ", "author": "斎藤隆介" },
+        { "title": "メロディ―大すきな　わたしのピアノ","full_title": "「メロディ　だいすきな　わたしのピアノ", "author": "くすのきしげのり" }
+      ],
+      "4年": [
+        { "title": "春のうた","full_title": "ジュニア・ポエム双書20　げんげと蛙", "author": "草野心平" },
+        { "title": "白いぼうし","full_title": "「新装版　車のいろは空のいろ1　車のいろは空のいろ　白いぼうし", "author": "あまんきみこ" },
+        { "title": "一つの花","full_title": "今西祐行全集　第四巻　一つの花", "author": "今西祐行" },
+        { "title": "神様の階段","full_title": "神様の階段", "author": "今森光彦" },
+        { "title": "忘れもの","full_title": "少年詩集8　枯れ葉と星", "author": "高田敏子" },
+        { "title": "ぼくは川","full_title": "夕方のにおい　ジュニアポエム双書10", "author": "阪田寛夫" },
+        { "title": "とる（部分）","full_title": "詩の散歩道　しかられた神さま", "author": "川崎洋" },
+        { "title": "ごんぎつね","full_title": "校定　新美南吉全集第三巻", "author": "新美南吉" },
+        { "title": " 使はざる部屋も灯して豆を撒く","full_title": "句集　峡の音", "author": "馬場移公子" },
+        { "title": "まんげつ","full_title": "みずかみかずよ全詩集　いのち", "author": "みずかみかずよ" },
+        { "title": "月","full_title": "少年少女詩集　さんかくじょうぎ", "author": "こやま峰子" },
+        { "title": "上弦の月","full_title": "詩選集　子どもへの詩の花束", "author": "堀田美幸" },
+        { "title": "ニンジン","full_title": "まど・みちお少年詩集　いいけしき", "author": "まど・みちお" },
+        { "title": "手ぶくろを買いに","full_title": "校定　新美南吉全集第二巻", "author": "新美南吉" }
+      ],
+      "5年": [
+        { "title": "かんがえるのっておもしろい","full_title": "「詩の風景　すき", "author": "谷川俊太郎" },
+        { "title": "春はあけぼの","full_title": "「新編日本古典文学全集18　枕草子", "author": "清少納言" },
+        { "title": "モモ","full_title": "岩波少年文庫127　モモ", "author": "ミヒャエル=エンデ" },
+        { "title": "かぼちゃのつるが","full_title": "木かげのベンチ", "author": "原田直友" },
+        { "title": "われは草なり","full_title": "高見順全集　第二十巻", "author": "高見順" },
+        { "title": "春暁","full_title": "漢詩の世界―そのこころと味わい―", "author": "孟浩然" },
+        { "title": "蛇","full_title": "博物誌", "author": "ジュール=ルナール" },
+        { "title": "するめ","full_title": "まど・みちお　全詩集", "author": "まど・みちお" },
+        { "title": "土","full_title": "三好達治全集　第一巻", "author": "三好達治" },
+        { "title": "ゆうぐれの松林","full_title": "定本　八木重吉詩集　新装版", "author": "八木重吉" },
+        { "title": "一ばんみじかい抒情詩","full_title": "寺山修司少女詩集", "author": "寺山修司" },
+        { "title": "風をみた人はいなかった","full_title": "ソナチネの木　新装版", "author": "岸田衿子" },
+        { "title": "大造じいさんとガン","full_title": "椋鳩十全集1　月の輪グマ", "author": "椋鳩十" },
+        { "title": "チェロの木","full_title": "チェロの木", "author": "いせひでこ" }
+      ],
+      "6年": [
+        { "title": "準備","full_title": "詩を読もう！　空への質問", "author": "高階杞一" },
+        { "title": "天地の文","full_title": "福澤諭吉全集　第3巻", "author": "福澤諭吉" },
+        { "title": "星空を届けたい","full_title": "星空を届けたい～出張プラネタリウム、はじめました！～", "author": "髙橋真理子" },
+        { "title": "せんねん　まんねん","full_title": "まど・みちお全詩集", "author": "まど・みちお" },
+        { "title": "名づけられた葉","full_title": "新川和江全詩集", "author": "新川和江" },
+        { "title": "やまなし","full_title": "校本　宮澤賢治全集　第十一巻", "author": "宮沢賢治" },
+        { "title": "ぼくのブック・ウーマン","full_title": "ぼくのブック・ウーマン", "author": "ヘザー=ヘンソン" },
+        { "title": "あたらしく冬きたりけり鞭のごと…","full_title": "宮柊二歌集", "author": "宮柊二" },
+        { "title": "グラタンの熱しと食ぶる冬至かな","full_title": "旅塵を払ふ", "author": "阿波野青畝" },
+        { "title": "寒に入る夜や星空きらびやか","full_title": "長谷川素逝全句集", "author": "長谷川素逝" },
+        { "title": "ぽくぽく","full_title": "永遠の詩8　八木重吉", "author": "八木重吉" },
+        { "title": "動物たちの恐ろしい夢のなかに","full_title": "美しい日本の詩歌8　川崎洋詩集　どうぶつ　ぶつぶつ", "author": "川崎洋" },
+        { "title": "うぐいす","full_title": "小さい詩集　雲の窓", "author": "武鹿悦子" },
+        { "title": "海の命","full_title": "えほんはともだち25　海のいのち", "author": "立松和平" },
+        { "title": "生きる","full_title": "うつむく青年", "author": "谷川俊太郎" },
+        { "title": "グスコーブドリの伝記","full_title": "校本宮澤賢治全集第十一巻", "author": "宮沢賢治" },
+        { "title": "風の又三郎","full_title": "校本宮澤賢治全集第十巻", "author": "宮沢賢治" },
+        { "title": "青い花","full_title": "安房直子コレクション2 見知らぬ町 ふしぎな村", "author": "安房直子" },
+        { "title": "緑のスキップ","full_title": "安房直子コレクション7　めぐる季節の話", "author": "安房直子" },
+        { "title": "土","full_title": "三好達治全集　第一巻", "author": "三好達治" },
+        { "title": "一ばんみじかい抒情詩","full_title": "寺山修司少女詩集", "author": "寺山修司" },
+        { "title": "春のうた","full_title": "ジュニア・ポエム双書20　げんげと蛙", "author": "草野心平" },
+        { "title": "雨のうた","full_title": "あめふりくまのこ　国土社の詩の本15", "author": "鶴見正夫" },
+        { "title": "どきん","full_title": "谷川俊太郎少年詩集　どきん", "author": "谷川俊太郎" },
+        { "title": "ぼくは川","full_title": "夕方のにおい　ジュニアポエム双書10", "author": "阪田寛夫" },
+        { "title": "忘れもの","full_title": "「少年詩集8　枯れ葉と星", "author": "高田敏子" }
+      ]
+    },
+    "東京書籍": {
+      "1年": [
+        { "title": "とんこととん","full_title": "とんこととん", "author": "武鹿悦子" },
+        { "title": "さとうとしお","full_title": "しぜんにタッチ！さとうとしお", "author": "精糖工業会" },
+        { "title": "あひるのあくび","full_title": "幼児がくしゅう百科絵本1", "author": "巻左千夫" },
+        { "title": "どうやってみをまもるのかな","full_title": "どうやってみをまもるのかな", "author": "薮内正幸" },
+        { "title": "おおきなかぶ","full_title": "おおきなかぶ", "author": "内田莉莎子" },
+        { "title": "たべもの","full_title": "たべもの　子どもの館78", "author": "中江俊夫" },
+        { "title": "あるけあるけ","full_title": "鶴見正夫少年詩集　日本海の詩", "author": "鶴見正夫" },
+        { "title": "き","full_title": "たべちゃうぞ", "author": "山中利子" },
+        { "title": "かいがら","full_title": "12のつきのちいさなおはなし", "author": "森山京" },
+        { "title": "ありがとう","full_title": "トマトとガラス", "author": "荘司武" },
+        { "title": "サラダでげんき","full_title": "サラダでげんき", "author": "角野栄子" },
+        { "title": "おとうとねずみチロ","full_title": "おとうとねずみチロのはなし", "author": "森山京" },
+        { "title": "みみずのたいそう","full_title": "おやすみなさい　またあした", "author": "神沢利子" },
+        { "title": "スイミー","full_title": "スイミー　ちいさなかしこいさかなのはなし", "author": "レオ・レオニ" },
+        { "title": "はなさかじいさん","full_title": "はなさかじいさん", "author": "石崎洋司" }
+      ],
+      "2年": [
+        { "title": "たけのこぐん","full_title": "雲の窓", "author": "武鹿悦子" },
+        { "title": "風のゆうびんやさん","full_title": "風のゆうびんやさん", "author": "竹下文子" },
+        { "title": "たんぽぽ","full_title": "たんぽぽ　かがくのとも傑作集", "author": "平山和子" },
+        { "title": "名前を見てちょうだい","full_title": "保育の手帖", "author": "あまんきみこ" },
+        { "title": "いろんなおとのあめ","full_title": "へんなかくれんぼ", "author": "岸田衿子" },
+        { "title": "空にぐうんと手をのばせ","full_title": "空にぐ～んと手をのばせ", "author": "新沢としひこ" },
+        { "title": "ニャーゴ","full_title": "にゃーご", "author": "宮西達也" },
+        { "title": "あまやどり","full_title": "鶴見正夫少年詩集　日本海の詩", "author": "鶴見正夫" },
+        { "title": "かさこじぞう","full_title": "かさこじぞう", "author": "岩崎京子" },
+        { "title": "お手紙","full_title": "ふたりはともだち", "author": "アーノルド・ローベル／三木卓" },
+        { "title": "おちば","full_title": "ふたりはいつも", "author": "アーノルド・ローベル／三木卓" }
+      ],
+      "3年": [
+        { "title": "春の子ども","full_title": "詩集　四季の歌", "author": "門倉詇" },
+        { "title": "すいせんのラッパ","full_title": "すいせんのラッパ　母の友", "author": "工藤直子" },
+        { "title": "ワニのおじいさんのたから物","full_title": "ぼうしをかぶったオニの子", "author": "川崎洋" },
+        { "title": "紙ひこうき","full_title": "あら　どこだ", "author": "神沢利子" },
+        { "title": "夕日がせなかをおしてくる","full_title": "ぽんこつマーチ", "author": "阪田寛夫" },
+        { "title": "サーカスのライオン","full_title": "サーカスのライオン", "author": "川村たかし" },
+        { "title": "ぼくがここに","full_title": "ぼくがここに", "author": "まど・みちお" },
+        { "title": "モチモチの木","full_title": "ベロ出しチョンマ", "author": "斎藤隆介" },
+        { "title": "カミツキガメは悪者か","full_title": "「カミツキガメはわるいやつ？", "author": "松沢陽士" },
+        { "title": "ゆうすげ村の小さな旅館―ウサギのダイコン","full_title": "ゆうすげ村の小さな旅館", "author": "茂市久美子" },
+        { "title": "クマの風船","full_title": "ゆうすげ村の小さな旅館", "author": "茂市久美子" }
+      ],
+      "4年": [      
+        { "title": "水平線","full_title": "海", "author": "小泉周二" },
+        { "title": "こわれた千の楽器","full_title": "こわれた1000のがっき", "author": "野呂昶" },
+        { "title": "ヤドカリとイソギンチャク","full_title": "さんご礁のなぞをさぐって", "author": "武田正倫" },
+        { "title": "走れ","full_title": "走れ", "author": "村中李衣" },
+        { "title": "ふしぎ","full_title": "金子みすゞ童謡集　わたしと小鳥とすずと", "author": "金子みすゞ" },
+        { "title": "よかったなあ","full_title": "いい けしき", "author": "まど・みちお" },
+        { "title": "一つの花","full_title": "太郎コオロギ", "author": "今西祐行" },
+        { "title": "ごんぎつね","full_title": "校定新美南吉全集　第三巻", "author": "新美南吉" },
+        { "title": "世界一美しいぼくの村","full_title": "せかいいちうつくしいぼくの村", "author": "小林豊" },
+        { "title": "世界一美しい村へ帰る","full_title": "せかいいちうつくしい村へかえる", "author": "小林豊" }
+      ],
+      "5年": [
+        { "title": "ぼくらのもの","full_title": "新版・野ゆき山ゆき", "author": "与田凖一" },
+        { "title": "世界でいちばんやかましい音","full_title": "愛蔵版おはなしのろうそく５　だめといわれてひっこむな", "author": "ベンジャミン・エルキン" },
+        { "title": "未知へ","full_title": "時間割にない時間", "author": "木村信子" },
+        { "title": "注文の多い料理店","full_title": "新校本　宮澤賢治全集 第12巻", "author": "宮沢賢治" },
+        { "title": "大造じいさんとがん","full_title": "新日本少年少女文学全集32　椋鳩十集", "author": "椋鳩十" },
+        { "title": "手塚治虫","full_title": "手塚治虫", "author": "国松俊英" }
+       ],
+      "6年": [
+        { "title": "いのち","full_title": "いきもののうた　みんなで読む詩・ひとりで読む詩２", "author": "小海永二" },
+        { "title": "イースター島にはなぜ森林がないのか","full_title": "生態系を蘇らせる", "author": "鷲谷いづみ" },
+        { "title": "風切るつばさ","full_title": "風切る翼", "author": "木村裕一" },
+        { "title": "いま始まる新しいいま","full_title": "埴輪たち", "author": "川崎洋" },
+        { "title": "海のいのち","full_title": "海のいのち", "author": "立松和平" },
+        { "title": "君たちに伝えたいこと","full_title": "十歳のきみへ", "author": "日野原重明" },
+        { "title": "春に","full_title": "どきん", "author": "谷川俊太郎" },
+        { "title": "ヒロシマのうた","full_title": "ヒロシマの歌ほか", "author": "今西祐行" }
+      ]
+    },
+    "教育出版": {
+      "1年": [
+        { "title": "おおきなかぶ","full_title": "おおきなかぶ", "author": "内田莉莎子" },
+        { "title": "あめのうた","full_title": "あめふりくまのこ", "author": "鶴見正夫" },
+        { "title": "うみへのながいたび","full_title": "月刊ＭＯＥ8月号通巻166号", "author": "今江祥智" },
+        { "title": "スイミー","full_title": "スイミー", "author": "レオ・レオニ" },
+        { "title": "ゆき","full_title": "しかられた神様", "author": "川崎洋" },
+        { "title": "お手がみ","full_title": "ふたりはともだち", "author": "アーノルド・ローベル／三木卓" },
+        { "title": "のんびり森のぞうさん","full_title": "のんびり森のぞうさん", "author": "川北亮司" }
+      ],
+      "2年": [
+        { "title": "おおくにぬしのぼうけん","full_title": "おおくにぬしのぼうけん", "author": "福永武彦" },
+        { "title": "アレクサンダとぜんまいねずみ","full_title": "アレクサンダとぜんまいねずみ", "author": "レオ＝レオニ" }
+      ],
+      "3年": [
+        { "title": "ぽたぽた","full_title": "ぽたぽた", "author": "三木卓" },
+        { "title": "のろのろひつじとせかせかひつじ","full_title": "のろのろひつじとせかせかひつじ", "author": "蜂飼耳" }
+      ],
+      "4年": [
+        { "title": "新装版 車のいろは空のいろ1　白いぼうし","full_title": "新装版 車のいろは空のいろ1　白いぼうし", "author": "あまんきみこ" },
+        { "title": "空のかあさま　新装版金子みすゞ全集・Ⅱ","full_title": "空のかあさま　新装版金子みすゞ全集・Ⅱ", "author": "金子みすゞ" }
+      ],
+      "5年": [
+        { "title": "プチ哲学","full_title": "プチ哲学", "author": "佐藤雅彦" },
+        { "title": "しずくの首飾り","full_title": "しずくの首飾り", "author": "ジョーン・エイキン" }
+      ],
+      "6年": [
+        { "title": "ネコはどうしてわがままか","full_title": "ネコはどうしてわがままか", "author": "日高敏隆" },
+        { "title": "星の王子さま","full_title": "星の王子さま", "author": "サン＝テグジュペリ" }
+      ]
+    }
+  }
